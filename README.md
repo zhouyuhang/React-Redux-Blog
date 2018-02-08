@@ -13,7 +13,13 @@ npm install
 
 ## Running the App
 
-Run the app at your browser:
+Start the App with npm:
+
+```
+npm start
+```
+
+Run the app at your browser and listen to port 8080:
 
 ```
 localhost:8080
