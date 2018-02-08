@@ -1,25 +1,35 @@
-# ReduxSimpleStarter
+# Blog(REACT + REDUX)
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A Blog that you can create, fetch, delete posts.
+Using REACT+REDUX, integrate with reduxblog API(https://reduxblog.herokuapp.com/)
 
-### Getting Started
+### Installing
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Install in console/terminal
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+npm install
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+## Running the App
+
+Run the app at your browser:
 
 ```
-> npm install
-> npm start
+localhost:8080
 ```
+
+## Built With
+
+* REACT
+* REDUX
+* reduxblog API
+* React Rounter
+* Redux Form with validation
+* axios
+* lodash
+* npm
+
+## Authors
+
+* **Alex Zhou** - *Initial work* - [LinkedIn](https://www.linkedin.com/in/yuhang-alex-zhou-859a5457/)
